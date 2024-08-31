@@ -1,3 +1,4 @@
+--How to Write Insert Query
 
 INSERT INTO employee(`fastName`,`lastName`,`City`,phone,`Email`,`Salary`)
 VALUES
