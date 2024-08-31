@@ -1,3 +1,0 @@
-
---Select All
-S
